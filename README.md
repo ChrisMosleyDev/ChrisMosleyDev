@@ -8,7 +8,7 @@ I am a Computer Science student at Southern New Hampshire University (SNHU) and 
 * **Tools:** Git, VS Code, Eclipse
 
 ### 🚀 Featured Projects & Interests
-* **The Ambivalent Journey:** An open-world Java game exploring state compression, bitmask tracking, and dynamic world systems.
+* **The Ambivalent Journey:** An open-world C++ game exploring state compression, bitmask tracking, and dynamic world systems.
 * **Chess Engine System:** Building logic-driven board evaluation and game mechanics.
 * **Movie Prediction Modeling:** Applying machine learning algorithms to analyze patterns and predict outcomes.
 
